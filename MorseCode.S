@@ -1,3 +1,5 @@
+#program to decode morse code
+
 .macro pushall
 push r16
 push r17
